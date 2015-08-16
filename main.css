@@ -1,3 +1,16 @@
 h1 {
     font-family: 'Courgette', cursive;
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+h2 {
+    font-family: 'Parisienne', cursive;
+    text-align: center;
+    
+}
+body {
+    background: url("https://photos-4.dropbox.com/t/2/AADCxLEjwdAmpjHJOrqPCUwqNhFe658Ofoe1q2tVuwUdqg/12/2240474/jpeg/256x256/8_0-540-3240-3240-3240-4320/_/1/2/P1020427.JPG/EOSg4QEYjbidLCABKAE/aCMj9R88J7p4e9A-0KJer8zjotAufH_Zo6DGyexiixU%2C1tN0KqnTzcvT3onMzAdaNYnJdlejX0uU_XslkCEM-ZY?size_mode=3&size=2048x1536");
+    background-size: cover;
 }
